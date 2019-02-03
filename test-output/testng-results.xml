@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="150690" started-at="2019-01-06T14:08:21Z" finished-at="2019-01-06T14:10:52Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="150690" started-at="2019-01-06T14:08:21Z" finished-at="2019-01-06T14:10:52Z">
+      <class name="Tests.ScreenRecordingTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:Tests.ScreenRecordingTest@6a4f787b]" name="setup" is-config="true" duration-ms="24392" started-at="2019-01-06T14:08:21Z" finished-at="2019-01-06T14:08:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="navigationTest()[pri:0, instance:Tests.ScreenRecordingTest@6a4f787b]" name="navigationTest" duration-ms="29058" started-at="2019-01-06T14:08:46Z" finished-at="2019-01-06T14:09:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigationTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:Tests.ScreenRecordingTest@6a4f787b]" name="tearDown" is-config="true" duration-ms="1180" started-at="2019-01-06T14:09:15Z" finished-at="2019-01-06T14:09:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:Tests.ScreenRecordingTest@6a4f787b]" name="setup" is-config="true" duration-ms="5200" started-at="2019-01-06T14:09:16Z" finished-at="2019-01-06T14:09:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="navigation_FeatureTest()[pri:0, instance:Tests.ScreenRecordingTest@6a4f787b]" name="navigation_FeatureTest" duration-ms="89699" started-at="2019-01-06T14:09:21Z" finished-at="2019-01-06T14:10:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigation_FeatureTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:Tests.ScreenRecordingTest@6a4f787b]" name="tearDown" is-config="true" duration-ms="1109" started-at="2019-01-06T14:10:51Z" finished-at="2019-01-06T14:10:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Tests.ScreenRecordingTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
